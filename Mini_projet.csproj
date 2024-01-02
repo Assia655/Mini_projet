@@ -107,11 +107,12 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="qrst.cs">
+    <Compile Include="sport.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="qrst.Designer.cs">
-      <DependentUpon>qrst.cs</DependentUpon>
+    <Compile Include=".Designer.cs">
+      <DependentUpon>sport.cs</DependentUpon>
+      <SubType>Form</SubType>
     </Compile>
     <Compile Include="suprimer_adherent.cs">
       <SubType>Form</SubType>
@@ -162,8 +163,8 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="qrst.resx">
-      <DependentUpon>qrst.cs</DependentUpon>
+    <EmbeddedResource Include="sport.resx">
+      <DependentUpon>sport.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="suprimer_adherent.resx">
       <DependentUpon>suprimer_adherent.cs</DependentUpon>
