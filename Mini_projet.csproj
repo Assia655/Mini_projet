@@ -76,6 +76,12 @@
     <Compile Include="Coach22.Designer.cs">
       <DependentUpon>Coach22.cs</DependentUpon>
     </Compile>
+    <Compile Include="halaessai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="halaessai.Designer.cs">
+      <DependentUpon>halaessai.cs</DependentUpon>
+    </Compile>
     <Compile Include="heeyyyy.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -110,6 +116,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Coach22.resx">
       <DependentUpon>Coach22.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="halaessai.resx">
+      <DependentUpon>halaessai.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="heeyyyy.resx">
       <DependentUpon>heeyyyy.cs</DependentUpon>
