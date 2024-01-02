@@ -58,6 +58,12 @@
     <Compile Include="Adherent.Designer.cs">
       <DependentUpon>Adherent.cs</DependentUpon>
     </Compile>
+    <Compile Include="ajout comp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajout comp.Designer.cs">
+      <DependentUpon>ajout comp.cs</DependentUpon>
+    </Compile>
     <Compile Include="ajouter_adherent.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -130,6 +136,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Adherent.resx">
       <DependentUpon>Adherent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajout comp.resx">
+      <DependentUpon>ajout comp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ajouter_adherent.resx">
       <DependentUpon>ajouter_adherent.cs</DependentUpon>
