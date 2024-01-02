@@ -107,8 +107,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-<<<<<<< HEAD
+	  
     <Compile Include="qrst.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -127,10 +126,7 @@
     <Compile Include="recherche comp.Designer.cs">
       <DependentUpon>recherche comp.cs</DependentUpon>
     </Compile>
-=======
->>>>>>> b060d174dda07dc2089e75409739f0785032ff99
-=======
->>>>>>> b060d174dda07dc2089e75409739f0785032ff99
+
     <Compile Include="suprimer_adherent.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -186,8 +182,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-<<<<<<< HEAD
-<<<<<<< HEAD
+    
     <EmbeddedResource Include="qrst.resx">
       <DependentUpon>qrst.cs</DependentUpon>
     </EmbeddedResource>
@@ -197,10 +192,7 @@
     <EmbeddedResource Include="recherche comp.resx">
       <DependentUpon>recherche comp.cs</DependentUpon>
     </EmbeddedResource>
-=======
->>>>>>> b060d174dda07dc2089e75409739f0785032ff99
-=======
->>>>>>> b060d174dda07dc2089e75409739f0785032ff99
+
     <EmbeddedResource Include="suprimer_adherent.resx">
       <DependentUpon>suprimer_adherent.cs</DependentUpon>
     </EmbeddedResource>
