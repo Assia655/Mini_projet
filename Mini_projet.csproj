@@ -70,6 +70,12 @@
     <Compile Include="ajouter_adherent.Designer.cs">
       <DependentUpon>ajouter_adherent.cs</DependentUpon>
     </Compile>
+    <Compile Include="cherche coach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cherche coach.Designer.cs">
+      <DependentUpon>cherche coach.cs</DependentUpon>
+    </Compile>
     <Compile Include="Cherché_Adherent.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -124,6 +130,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ajouter_adherent.resx">
       <DependentUpon>ajouter_adherent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cherche coach.resx">
+      <DependentUpon>cherche coach.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Cherché_Adherent.resx">
       <DependentUpon>Cherché_Adherent.cs</DependentUpon>
