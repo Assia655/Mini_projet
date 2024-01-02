@@ -76,6 +76,12 @@
     <Compile Include="ajouter_adherent.Designer.cs">
       <DependentUpon>ajouter_adherent.cs</DependentUpon>
     </Compile>
+    <Compile Include="cherche coach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cherche coach.Designer.cs">
+      <DependentUpon>cherche coach.cs</DependentUpon>
+    </Compile>
     <Compile Include="Cherché_Adherent.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -94,18 +100,6 @@
     <Compile Include="halaessai.Designer.cs">
       <DependentUpon>halaessai.cs</DependentUpon>
     </Compile>
-    <Compile Include="heeyyyy.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="heeyyyy.Designer.cs">
-      <DependentUpon>heeyyyy.cs</DependentUpon>
-    </Compile>
-    <Compile Include="IMNADA.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="IMNADA.Designer.cs">
-      <DependentUpon>IMNADA.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Properties\Resources.Designer.cs">
@@ -113,6 +107,7 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="qrst.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -131,6 +126,8 @@
     <Compile Include="recherche comp.Designer.cs">
       <DependentUpon>recherche comp.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> b060d174dda07dc2089e75409739f0785032ff99
     <Compile Include="suprimer_adherent.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -170,6 +167,9 @@
     <EmbeddedResource Include="ajouter_adherent.resx">
       <DependentUpon>ajouter_adherent.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="cherche coach.resx">
+      <DependentUpon>cherche coach.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Cherché_Adherent.resx">
       <DependentUpon>Cherché_Adherent.cs</DependentUpon>
     </EmbeddedResource>
@@ -179,16 +179,11 @@
     <EmbeddedResource Include="halaessai.resx">
       <DependentUpon>halaessai.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="heeyyyy.resx">
-      <DependentUpon>heeyyyy.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="IMNADA.resx">
-      <DependentUpon>IMNADA.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="qrst.resx">
       <DependentUpon>qrst.cs</DependentUpon>
     </EmbeddedResource>
@@ -198,6 +193,8 @@
     <EmbeddedResource Include="recherche comp.resx">
       <DependentUpon>recherche comp.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> b060d174dda07dc2089e75409739f0785032ff99
     <EmbeddedResource Include="suprimer_adherent.resx">
       <DependentUpon>suprimer_adherent.cs</DependentUpon>
     </EmbeddedResource>
