@@ -26,6 +26,13 @@ namespace Mini_projet
         {
             Adherent A = new Adherent();
             A.ShowDialog();
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Coach22 c = new Coach22();
+            c.ShowDialog();
         }
     }
 }
