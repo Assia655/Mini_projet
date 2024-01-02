@@ -52,6 +52,12 @@
     <Compile Include="Acceuil.Designer.cs">
       <DependentUpon>Acceuil.cs</DependentUpon>
     </Compile>
+    <Compile Include="adherant compétition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adherant compétition.Designer.cs">
+      <DependentUpon>adherant compétition.cs</DependentUpon>
+    </Compile>
     <Compile Include="Adherent.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -106,11 +112,41 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <Compile Include="qrst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qrst.Designer.cs">
+      <DependentUpon>qrst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="qupp comp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="qupp comp.Designer.cs">
+      <DependentUpon>qupp comp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="recherche comp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="recherche comp.Designer.cs">
+      <DependentUpon>recherche comp.cs</DependentUpon>
+    </Compile>
+=======
+>>>>>>> b060d174dda07dc2089e75409739f0785032ff99
+=======
+>>>>>>> b060d174dda07dc2089e75409739f0785032ff99
     <Compile Include="suprimer_adherent.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="suprimer_adherent.Designer.cs">
       <DependentUpon>suprimer_adherent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="voir comp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="voir comp.Designer.cs">
+      <DependentUpon>voir comp.cs</DependentUpon>
     </Compile>
     <Compile Include="Voir_adherent.cs">
       <SubType>Form</SubType>
@@ -126,6 +162,9 @@
     </Compile>
     <EmbeddedResource Include="Acceuil.resx">
       <DependentUpon>Acceuil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adherant compétition.resx">
+      <DependentUpon>adherant compétition.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Adherent.resx">
       <DependentUpon>Adherent.cs</DependentUpon>
@@ -152,8 +191,26 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+<<<<<<< HEAD
+<<<<<<< HEAD
+    <EmbeddedResource Include="qrst.resx">
+      <DependentUpon>qrst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="qupp comp.resx">
+      <DependentUpon>qupp comp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="recherche comp.resx">
+      <DependentUpon>recherche comp.cs</DependentUpon>
+    </EmbeddedResource>
+=======
+>>>>>>> b060d174dda07dc2089e75409739f0785032ff99
+=======
+>>>>>>> b060d174dda07dc2089e75409739f0785032ff99
     <EmbeddedResource Include="suprimer_adherent.resx">
       <DependentUpon>suprimer_adherent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="voir comp.resx">
+      <DependentUpon>voir comp.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Voir_adherent.resx">
       <DependentUpon>Voir_adherent.cs</DependentUpon>
