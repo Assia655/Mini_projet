@@ -21,5 +21,15 @@ namespace Mini_projet
         {
 
         }
+
+        private void wi1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
