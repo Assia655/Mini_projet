@@ -151,18 +151,18 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(189, 239);
+            this.pictureBox3.Location = new System.Drawing.Point(198, 239);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox3.Size = new System.Drawing.Size(68, 50);
             this.pictureBox3.TabIndex = 9;
             this.pictureBox3.TabStop = false;
             // 
             // pictureBox4
             // 
             this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
-            this.pictureBox4.Location = new System.Drawing.Point(189, 331);
+            this.pictureBox4.Location = new System.Drawing.Point(198, 320);
             this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox4.Size = new System.Drawing.Size(40, 58);
             this.pictureBox4.TabIndex = 10;
             this.pictureBox4.TabStop = false;
             // 
