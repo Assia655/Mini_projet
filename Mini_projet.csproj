@@ -108,6 +108,12 @@
     <Compile Include="Voir_adherent.Designer.cs">
       <DependentUpon>Voir_adherent.cs</DependentUpon>
     </Compile>
+    <Compile Include="wi1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="wi1.Designer.cs">
+      <DependentUpon>wi1.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Acceuil.resx">
       <DependentUpon>Acceuil.cs</DependentUpon>
     </EmbeddedResource>
@@ -146,6 +152,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Voir_adherent.resx">
       <DependentUpon>Voir_adherent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="wi1.resx">
+      <DependentUpon>wi1.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
