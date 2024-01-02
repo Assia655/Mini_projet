@@ -16,5 +16,10 @@ namespace Mini_projet
         {
             InitializeComponent();
         }
+
+        private void cherche_coach_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

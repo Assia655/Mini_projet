@@ -181,6 +181,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.button2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Coach22";
             this.Text = "Coach22";
             this.panel1.ResumeLayout(false);

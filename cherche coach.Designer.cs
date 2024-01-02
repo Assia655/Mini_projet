@@ -127,8 +127,10 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.panel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "cherche_coach";
             this.Text = "cherche_coach";
+            this.Load += new System.EventHandler(this.cherche_coach_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
